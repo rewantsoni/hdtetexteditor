@@ -1,0 +1,3 @@
+/Users/rewant/CLionProjects/texteditor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/rewant/CLionProjects/texteditor/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rewant/CLionProjects/texteditor/cmake-build-debug/CMakeFiles/texteditor.dir
