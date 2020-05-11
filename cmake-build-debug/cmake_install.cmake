@@ -1,4 +1,4 @@
-# Install script for directory: /Users/rewant/CLionProjects/texteditor
+# Install script for directory: /Users/rewantsoni/Documents/Projects/CLionProjects/texteditor
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/rewant/CLionProjects/texteditor/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/rewantsoni/Documents/Projects/CLionProjects/texteditor/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

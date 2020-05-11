@@ -6,13 +6,29 @@
 
 #IncludeRegexTransform: 
 
-/Users/rewant/CLionProjects/texteditor/main.cpp
+/Users/rewantsoni/Documents/Projects/CLionProjects/texteditor/main.cpp
 iostream
+-
+cstdlib
 -
 unistd.h
 -
+sys/ioctl.h
+-
 termios.h
 -
-iostream
+cctype
+-
+ctime
+-
+cerrno
+-
+fcntl.h
+-
+cstdio
+-
+cstring
+-
+cstdarg
 -
 

@@ -13,6 +13,41 @@
   <component name="ChangeListManager">
     <list default="true" id="34b99980-487d-428e-835e-0187c3005bcb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/texteditor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/texteditor.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/texteditor.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/texteditor.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/texteditor.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/texteditor.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/texteditor.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/texteditor.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/texteditor.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/texteditor.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/texteditor.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/texteditor.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/texteditor.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/texteditor.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/texteditor.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/texteditor.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/texteditor.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main" beforeDir="false" afterPath="$PROJECT_DIR$/main" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,22 +65,25 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="CMake Application.texteditor">
-    <configuration name="texteditor" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="texteditor" TARGET_NAME="texteditor" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="texteditor" RUN_TARGET_NAME="texteditor">
+    <configuration name="texteditor" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="texteditor" TARGET_NAME="texteditor" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="texteditor" RUN_TARGET_NAME="texteditor">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -56,11 +94,10 @@
       </makefile>
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Makefile.main" />
-      </list>
-    </recent_temporary>
+    <list>
+      <item itemvalue="CMake Application.texteditor" />
+      <item itemvalue="Makefile.main" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -73,38 +110,49 @@
       <option name="presentableId" value="Default" />
       <updated>1585557881186</updated>
       <workItem from="1585557884692" duration="534000" />
-      <workItem from="1585558531123" duration="10256000" />
+      <workItem from="1585558531123" duration="11243000" />
+      <workItem from="1586356430390" duration="1014000" />
+      <workItem from="1586445975627" duration="774000" />
+      <workItem from="1587014560888" duration="837000" />
+      <workItem from="1589211755551" duration="2541000" />
+      <workItem from="1589215482463" duration="297000" />
+      <workItem from="1589215854706" duration="102000" />
+      <workItem from="1589215973573" duration="898000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="452" y="246" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585558703597">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state x="452" y="246" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.827@0.23.1440.827" timestamp="1585558703597" />
-    <state width="1398" height="213" key="GridCell.Tab.0.bottom" timestamp="1585561465386">
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom" timestamp="1586069456733">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1585561465386" />
-    <state width="1398" height="213" key="GridCell.Tab.0.center" timestamp="1585561465385">
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1586069456733" />
+    <state width="1398" height="213" key="GridCell.Tab.0.center" timestamp="1586069456731">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state width="1398" height="213" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1585561465385" />
-    <state width="1398" height="213" key="GridCell.Tab.0.left" timestamp="1585561465384">
+    <state width="1398" height="213" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1586069456731" />
+    <state width="1398" height="213" key="GridCell.Tab.0.left" timestamp="1586069456730">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state width="1398" height="213" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1585561465384" />
-    <state width="1398" height="213" key="GridCell.Tab.0.right" timestamp="1585561465385">
+    <state width="1398" height="213" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1586069456730" />
+    <state width="1398" height="213" key="GridCell.Tab.0.right" timestamp="1586069456732">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state width="1398" height="213" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1585561465385" />
-    <state x="397" y="269" key="com.intellij.ide.util.TipDialog" timestamp="1585558556430">
+    <state width="1398" height="213" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1586069456732" />
+    <state x="221" y="72" key="SettingsEditor" timestamp="1589215947247">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="221" y="72" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1589215947247" />
+    <state x="397" y="269" key="com.intellij.ide.util.TipDialog" timestamp="1586446248851">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state x="397" y="269" key="com.intellij.ide.util.TipDialog/0.23.1440.827@0.23.1440.827" timestamp="1585558556430" />
+    <state x="397" y="269" key="com.intellij.ide.util.TipDialog/0.23.1440.827@0.23.1440.827" timestamp="1586446248851" />
     <state x="385" y="174" width="670" height="676" key="search.everywhere.popup" timestamp="1585558361789">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
